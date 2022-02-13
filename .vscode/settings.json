@@ -1,0 +1,11 @@
+{
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#5C0439",
+    "titleBar.activeBackground": "#810550",
+    "titleBar.activeForeground": "#FFFBFD"
+  },
+  "solidity.remappings": [
+    "@chainlink/=/home/madhu_km/.brownie/packages/smartcontractkit/chainlink-brownie-contracts@0.3.1",
+    "@openzeppelin/=/home/madhu_km/.brownie/packages/OpenZeppelin/openzeppelin-contracts@4.4.0"
+  ]
+}
